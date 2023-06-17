@@ -1,7 +1,7 @@
 #Screen dimension
 
 WIDTH = 1000
-HEIGHT = (WIDTH *4)//6
+HEIGHT = 700
 
 
 #board dimension

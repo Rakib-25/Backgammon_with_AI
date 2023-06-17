@@ -68,6 +68,11 @@ class Board:
                         
                         elif col == 4 and row >=11:
                             self.squares[row][col] = Square(row, col, Guti(color))
+                    
+                    
+                    
+                    
+                        
                         
                     
                     
